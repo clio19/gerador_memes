@@ -6,11 +6,16 @@
   height: 40vmin;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+img {
+  height: 20vmin;
+}
+
+header {
+  background-color: #3763bb;
+  /* min-height: 100vh; */
+  padding-left: 1ex;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
